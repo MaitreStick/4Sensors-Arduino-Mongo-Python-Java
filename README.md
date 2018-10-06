@@ -1,1 +1,4 @@
-# Puto el que lea :V
+#Arduino (Arduino)
+#Python (Spyder)
+#Java (Eclipse)
+#Mongo (Mlab)
